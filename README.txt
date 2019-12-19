@@ -1,1 +1,0 @@
-This Git repository for learning Java
