@@ -1,1 +1,1 @@
-This git repozitory for learn java
+This Git repository for learning Java
